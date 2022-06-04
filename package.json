@@ -2,7 +2,7 @@
 	"author": "Martin Azario",
 	"name": "fcc-learn-npm-package-json",
 	"description": "New node.js project to learn",
-	"keywords": ["education","nodejs","backend"],
+	"keywords": ["education","freecodecamp","backend"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
